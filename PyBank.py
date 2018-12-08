@@ -11,7 +11,6 @@ import os
 
 # create file path and save as file
 
-# filepath = 'C:\\Users\\kamil\\Desktop\\budget_data.csv'
 filepath = 'C:\\Users\\kamil\\Documents\\NUCHI201811DATA2\\Homework\\03-Python\\Instructions\\PyBank\\Resources\\budget_data.csv'
 
 
